@@ -1,0 +1,103 @@
+#stage {
+    width: 300px;
+    height: 300px;
+    position: relative;
+
+}
+
+#background {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-image: url(./img/background.png);
+
+}
+
+#cannon {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 270px;
+    left: 140px;
+    background-image: url(./img/cannon.png);
+
+}
+
+#enemy {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    background-image: url(./img/enemy.png);
+    
+
+}
+
+#missle {
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 240px;
+    left: 145px;
+    background-image: url(./img/missle.png);
+
+}
+
+#explosion {
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    top: 20px;
+    left: 80px;
+    background-image: url(./img/explosion.png);
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
